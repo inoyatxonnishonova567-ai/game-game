@@ -1,0 +1,6 @@
+{
+  "name": "2D MOBA Arena - HTML5 Canvas O'yini",
+  "description": "Three.js 3D MOBA Arena: To'liq rangli teksturali 3D arena, Mid Lane oq chiziqlari, Xavier va Zilong 3D modellari, 3D minionlar va minoralar, DirectionalLight soyalari hamda Dawning Light 3D lazer nurlari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
